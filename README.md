@@ -4,6 +4,13 @@
 
 ![Python](https://img.shields.io/badge/python-3.11+-blue) ![PyTorch](https://img.shields.io/badge/PyTorch-from%20scratch-ee4c2c) ![Dataset](https://img.shields.io/badge/data-SST--2-yellow)
 
+**Notebooks**: for the best reading experience, open them in nbviewer (full-page rendering) or Colab:
+
+| Notebook | Read | Run |
+|---|---|---|
+| `optimization_and_regularization.ipynb` | [![nbviewer](https://img.shields.io/badge/view-nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/bloch-ai-engineering/torch-optim-lab/blob/main/notebooks/optimization_and_regularization.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bloch-ai-engineering/torch-optim-lab/blob/main/notebooks/optimization_and_regularization.ipynb) |
+
+
 ## What's inside
 
 ### Part 1: Logistic regression from scratch on SST-2 sentiment
